@@ -10,7 +10,7 @@
     "emitDecoratorMetadata": true,
     "stripInternal": true,
     "skipLibCheck": true,
-    "outDir": "../../dist"
+    "outDir": "/dist"
   },
   "files": [
     "index.ts"

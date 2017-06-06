@@ -1,8 +1,8 @@
 {
-  "name": "angular2-gantt",
+  "name": "hotz-angular-gantt",
   "version": "1.0.0-alpha.1",
-  "description": "Gantt component for Angular 2",
-  "bugs": "https://github.com/dalestone/angular2-gantt/issues",
+  "description": "Improven Gantt component for Angular 2+",
+  "bugs": "https://github.com/Hotzilla/hotz-angular-gantt/issues",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
@@ -14,29 +14,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dalestone/angular2-gantt.git"
+    "url": "https://github.com/Hotzilla/hotz-angular-gantt"
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^2.4.5",
-    "@angular/compiler": "^2.4.5",
-    "@angular/core": "^2.4.5",
-    "@angular/forms": "^2.4.5",
-    "@angular/http": "^2.4.5",
-    "@angular/platform-browser": "^2.4.5",
-    "@angular/platform-browser-dynamic": "^2.4.5",
-    "@angular/router": "^3.4.5",
-    "angular2-tree-component": "^2.7.0",
+    "@angular/common": "^4.1.0",
+    "@angular/compiler": "^4.1.0",
+    "@angular/core": "^4.1.0",
+    "@angular/forms": "^4.1.0",
+    "@angular/http": "^4.1.0",
+    "@angular/platform-browser": "^4.1.0",
+    "@angular/platform-browser-dynamic": "^4.1.0",
+    "@angular/router": "^4.1.0",
+    "angular2-tree-component": "^4.1.0",
     "core-js": "^2.4.1",
-    "ng2-gantt": "1.0.0-alpha.1",
-    "rxjs": "5.0.0-beta.12",
-    "ts-helpers": "^1.1.1",
-    "zone.js": "^0.6.23"
+    "rxjs": "^5.4.0",
+    "ts-helpers": "^1.1.2",
+    "zone.js": "^0.8.11"
   },
   "devDependencies": {
     "@types/jasmine": "^2.2.30",
     "@types/node": "^6.0.42",
-    "angular-cli": "1.0.0-beta.18",
+    "@angular/cli": "^1.1.0",
     "codelyzer": "1.0.0-beta.1",
     "jasmine-core": "2.4.1",
     "jasmine-spec-reporter": "2.5.0",
@@ -48,6 +47,6 @@
     "protractor": "4.0.9",
     "ts-node": "1.2.1",
     "tslint": "3.13.0",
-    "typescript": "~2.0.3"
+    "typescript": "^2.3.4"
   }
 }
